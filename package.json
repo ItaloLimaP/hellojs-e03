@@ -18,6 +18,8 @@
   "homepage": "https://github.com/ItaloLimaP/hellojs-e03#readme",
   "dependencies": {
     "axios": "^0.17.1",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "sqlite3": "^3.1.13"
   }
 }

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/home/admin/Documentos/HelloJS/hellojs-e03/hellojs-e03/dbe03"/><window><current_tab id="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1106"/><expanded_item id="0" parent="-1"/><expanded_item id="1" parent="-1"/><expanded_item id="2" parent="-1"/><expanded_item id="3" parent="-1"/></tab_structure><tab_browse><current_table name="convidado"/><column_widths data="AAAAAQAAABIAYwBvAG4AdgBpAGQAYQBkAG8AAAABAAAAAAAAAAA="/><sort column="0" order="0"/></tab_browse><tab_sql><sql name="SQL 1">create table teste(
+  idevento integer not null primary key,
+  dscevento varchar(255) not null,
+  dataevento date not null
+);</sql><current_tab id="0"/></tab_sql></sqlb_project>
